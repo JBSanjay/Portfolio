@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae88377c.css",
+    "main.js": "/static/js/main.db89a944.js",
+    "static/media/pexels-thisisengineering-3912367.jpg": "/static/media/pexels-thisisengineering-3912367.05445d7aa75561aecf37.jpg",
+    "static/media/pexels-pixabay-2170.jpg": "/static/media/pexels-pixabay-2170.b038097a844d7ba7381d.jpg",
+    "static/media/pexels-maksim-goncharenok-5605061.jpg": "/static/media/pexels-maksim-goncharenok-5605061.1052c3e8fe348e80965b.jpg",
+    "static/media/pexels-tirachard-kumtanom-733852.jpg": "/static/media/pexels-tirachard-kumtanom-733852.3b9f398bf4fe23dccb32.jpg",
+    "static/media/Image.jpg": "/static/media/Image.21bcd7e3d6ab8d08f25d.jpg",
+    "static/media/javascript.svg": "/static/media/javascript.3ce684803f5b3356954b55d392d04788.svg",
+    "static/media/python.svg": "/static/media/python.b535fec5bbf5e297d87a751cde1933c3.svg",
+    "static/media/java.svg": "/static/media/java.1299a8b8cc219c6475a8a77121c10ecc.svg",
+    "static/media/css3.svg": "/static/media/css3.a79b97e79096bb163edb3f2ec6de4824.svg",
+    "index.html": "/index.html",
+    "static/media/c.svg": "/static/media/c.cac16519759a989016e400dd7786fbcb.svg",
+    "static/media/html5 (1).svg": "/static/media/html5 (1).6b48230c9b1da8ddf185c3ed25ce3b0f.svg",
+    "static/media/react (2).svg": "/static/media/react (2).96c3b5235a44e624159cdd43aaf89abc.svg",
+    "main.ae88377c.css.map": "/static/css/main.ae88377c.css.map",
+    "main.db89a944.js.map": "/static/js/main.db89a944.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae88377c.css",
+    "static/js/main.db89a944.js"
+  ]
+}
